@@ -1,6 +1,6 @@
 # Medical Assistant Chatbot 🏥<img width="666" height="495" alt="image" src="https://github.com/user-attachments/assets/bccaca8d-3dfd-4597-a7b4-a8eb91c15dca" />
 
-
+ WEBSITE LINK: https://medical-chatbot-7vz89ided-pravin1279s-projects.vercel.app
 A comprehensive, intelligent medical assistant chatbot with **breathing UI animations**, **Google search integration**, **disease-specific health tips**, and **advanced medical image analysis**. Built with Flask and modern web technologies, featuring a beautiful medical-themed interface with dynamic breathing effects.
 
 ## ⚠️ Important Disclaimer
@@ -322,3 +322,4 @@ npx vercel --prod
 
 
 **🌟 The most advanced medical chatbot with breathing UI, Google search integration, and comprehensive medical guidance! Experience the future of AI-powered healthcare assistance!** 🏥✨ 
+
