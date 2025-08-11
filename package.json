@@ -1,0 +1,17 @@
+{
+  "name": "medical-chatbot",
+  "version": "1.0.0",
+  "description": "Comprehensive Medical Assistant Chatbot with 15+ health conditions, location-aware features, and traditional medicine support",
+  "main": "api/index.py",
+  "scripts": {
+    "dev": "python app.py",
+    "start": "python api/index.py",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["medical", "chatbot", "healthcare", "assistant", "flask", "vercel"],
+  "author": "Medical Chatbot Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.x"
+  }
+} 
