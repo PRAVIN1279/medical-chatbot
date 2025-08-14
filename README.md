@@ -1,5 +1,6 @@
 # Medical Assistant Chatbot 🏥<img width="666" height="495" alt="image" src="https://github.com/user-attachments/assets/bccaca8d-3dfd-4597-a7b4-a8eb91c15dca" />
-
+"Took the initiative to design, build, and showcase a solo project during Cognizant Vibe Coding, highlighting my ability to innovate and execute independently."
+ let's do vibe coding!
  WEBSITE LINK: https://medical-chatbot-7vz89ided-pravin1279s-projects.vercel.app
 A comprehensive, intelligent medical assistant chatbot with **breathing UI animations**, **Google search integration**, **disease-specific health tips**, and **advanced medical image analysis**. Built with Flask and modern web technologies, featuring a beautiful medical-themed interface with dynamic breathing effects.
 
@@ -91,8 +92,20 @@ When you search any disease, you get:
 - **Production Ready**: Optimized for healthcare applications
 - **Global CDN**: Fast access worldwide
 - **SSL Secured**: HTTPS encryption for medical data
+- ### **Deployment**
+- **Vercel Platform**: Serverless deployment
+- **Production Ready**: Optimized for healthcare applications
+- **Global CDN**: Fast access worldwide
+- **SSL Secured**: HTTPS encryption for medical data
+
+## 🤖 **AI Development Notes**
+- **Agent-style workflow**: A lightweight planner–executor "agent" coordinates tools (Google Search, symptom analysis, health tips) behind the Flask APIs.
+- **Built with AI**: Developed collaboratively using **Cursor IDE** and **Cursor AI** for pair-programming and refactors.
+- **Model-agnostic prompts**: Compatible with modern LLMs (e.g., **Claude Sonnet 4.5-class**, **GPT‑4.5-class**). Connect your preferred provider and model.
+- **Simple setup**: Supply your vendor API key and model name (e.g., OpenAI, Anthropic) if you connect an LLM to augment responses.
 
 ## 🔧 **Installation & Setup**
+// ... existing code ...
 
 ### **Prerequisites**
 - Python 3.9+
@@ -322,4 +335,5 @@ npx vercel --prod
 
 
 **🌟 The most advanced medical chatbot with breathing UI, Google search integration, and comprehensive medical guidance! Experience the future of AI-powered healthcare assistance!** 🏥✨ 
+
 
